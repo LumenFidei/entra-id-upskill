@@ -1,3 +1,7 @@
+---
+title: Entra ID
+---
+
 # Entra ID Knowledge Base
 
 A personal study vault for Microsoft Entra ID, built toward the SC-300 (Identity and Access Administrator Associate) certification — organized around the exam's four skills-measured domains, plus a practical automation cluster.
